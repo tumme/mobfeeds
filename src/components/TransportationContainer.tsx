@@ -179,5 +179,75 @@ const train = [
 
 
         ]
-    }
+    },
+    {
+        type: 'MRT',
+        lineName: 'สีม่วง',
+        stations: [
+            {
+                name: 'คลองบางไผ่',
+                status: TRAIN_STATUS.CLOSED
+            },
+            {
+                name: 'ตลาดบางใหญ่',
+                status: TRAIN_STATUS.CLOSED
+            },
+            {
+                name: 'สามแยกบางใหญ่',
+                status: TRAIN_STATUS.CLOSED
+            },
+            {
+                name: 'บางพลู',
+                status: TRAIN_STATUS.CLOSED
+            },
+            {
+                name: 'บางรักใหญ่',
+                status: TRAIN_STATUS.CLOSED
+            },
+            {
+                name: 'บางรักน้อย-ท่าอิฐ',
+                status: TRAIN_STATUS.CLOSED
+            },
+            {
+                name: 'ไทรม้า',
+                status: TRAIN_STATUS.CLOSED
+            },
+            {
+                name: 'สะพานพระนั่งเกล้า',
+                status: TRAIN_STATUS.CLOSED
+            },
+            {
+                name: 'แยกนนทบุรี 1',
+                status: TRAIN_STATUS.CLOSED
+            },
+            {
+                name: 'บางกระสอ',
+                status: TRAIN_STATUS.CLOSED
+            },
+            {
+                name: 'ศูนย์ราชการนนทบุรี',
+                status: TRAIN_STATUS.CLOSED
+            },
+            {
+                name: 'กระทรวงสาธารณสุข',
+                status: TRAIN_STATUS.CLOSED
+            },
+            {
+                name: 'แยกติวานนท์',
+                status: TRAIN_STATUS.CLOSED
+            },
+            {
+                name: 'วงศ์สว่าง',
+                status: TRAIN_STATUS.CLOSED
+            }, {
+                name: 'บางซ่อน',
+                status: TRAIN_STATUS.CLOSED
+            },
+            {
+                name: 'เตาปูน',
+                status: TRAIN_STATUS.CLOSED
+            },
+        ]
+    },
+   
 ]
