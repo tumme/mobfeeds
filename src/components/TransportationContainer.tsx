@@ -249,5 +249,229 @@ const train = [
             },
         ]
     },
-   
+    {
+        type: 'BTS',
+        lineName: 'สุขุมวิท',
+        stations: [
+            {
+                name: 'วัดพระศรีมหาธาตุ',
+                status: TRAIN_STATUS.CLOSED
+            },
+            {
+                name: 'กรมทหารราบที่ 11',
+                status: TRAIN_STATUS.CLOSED
+            },
+            {
+                name: 'บางบัว',
+                status: TRAIN_STATUS.CLOSED
+            },
+            {
+                name: 'กรมป่าไม้',
+                status: TRAIN_STATUS.CLOSED
+            },
+            {
+                name: 'มหาวิทยาลัยเกษตรศาสตร์',
+                status: TRAIN_STATUS.CLOSED
+            },
+            {
+                name: 'เสนานิคม',
+                status: TRAIN_STATUS.CLOSED
+            },
+            {
+                name: 'รัชโยธิน',
+                status: TRAIN_STATUS.CLOSED
+            },
+            {
+                name: 'พหลโยธิน 24',
+                status: TRAIN_STATUS.CLOSED
+            },
+            {
+                name: 'ห้าแยกลาดพร้าว',
+                status: TRAIN_STATUS.CLOSED
+            },
+            {
+                name: 'หมอชิต',
+                status: TRAIN_STATUS.CLOSED
+            },
+            {
+                name: 'สะพานควาย',
+                status: TRAIN_STATUS.CLOSED
+            },
+            {
+                name: 'อารีย์',
+                status: TRAIN_STATUS.CLOSED
+            },
+            {
+                name: 'สนามเป้า',
+                status: TRAIN_STATUS.CLOSED
+            },
+            {
+                name: 'อนุสาวรีย์ชัยสมรภูมิ',
+                status: TRAIN_STATUS.CLOSED
+            }, {
+                name: 'พญาไท',
+                status: TRAIN_STATUS.CLOSED
+            },
+            {
+                name: 'ราชเทวี',
+                status: TRAIN_STATUS.CLOSED
+            },
+            {
+                name: 'สยาม',
+                status: TRAIN_STATUS.CLOSED
+            },
+            {
+                name: 'ชิดลม',
+                status: TRAIN_STATUS.CLOSED
+            },
+            {
+                name: 'เพลินจิต',
+                status: TRAIN_STATUS.CLOSED
+            },
+
+            {
+                name: 'นานา',
+                status: TRAIN_STATUS.CLOSED
+            },
+            {
+                name: 'อโศก',
+                status: TRAIN_STATUS.CLOSED
+            },
+
+            {
+                name: 'พร้อมพงษ์',
+                status: TRAIN_STATUS.CLOSED
+            },
+            {
+                name: 'ทองหล่อ',
+                status: TRAIN_STATUS.CLOSED
+            },
+            {
+                name: 'เอกมัย',
+                status: TRAIN_STATUS.CLOSED
+            },
+            {
+                name: 'พระโขนง',
+                status: TRAIN_STATUS.CLOSED
+            },
+            {
+                name: 'อ่อนนุช',
+                status: TRAIN_STATUS.CLOSED
+            },
+            {
+                name: 'บางจาก',
+                status: TRAIN_STATUS.CLOSED
+            },
+            {
+                name: 'ปุณณวิถี',
+                status: TRAIN_STATUS.CLOSED
+            },
+            {
+                name: 'อุดมสุข',
+                status: TRAIN_STATUS.CLOSED
+            },
+            {
+                name: 'บางนา',
+                status: TRAIN_STATUS.CLOSED
+            },
+            {
+                name: 'แบริ่ง',
+                status: TRAIN_STATUS.CLOSED
+            },
+            {
+                name: 'สำโรง',
+                status: TRAIN_STATUS.CLOSED
+            },
+            {
+                name: 'ปู่เจ้า',
+                status: TRAIN_STATUS.CLOSED
+            },
+            {
+                name: 'ช้างเอราวัณ',
+                status: TRAIN_STATUS.CLOSED
+            },
+            {
+                name: 'โรงเรียนนายเรือ',
+                status: TRAIN_STATUS.CLOSED
+            },
+            {
+                name: 'ปากน้ำ',
+                status: TRAIN_STATUS.CLOSED
+            },
+            {
+                name: 'ศรีนครินทร์',
+                status: TRAIN_STATUS.CLOSED
+            },
+            {
+                name: 'แพรกษา',
+                status: TRAIN_STATUS.CLOSED
+            },
+            {
+                name: 'สายลวด',
+                status: TRAIN_STATUS.CLOSED
+            },
+            {
+                name: 'เคหะฯ',
+                status: TRAIN_STATUS.CLOSED
+            },
+        ]
+    },
+    {
+        type: 'BTS',
+        lineName: 'สีลม',
+        stations: [
+            {
+                name: 'สนามกีฬาแห่งชาติ',
+                status: TRAIN_STATUS.CLOSED
+            },
+            {
+                name: 'สยาม',
+                status: TRAIN_STATUS.CLOSED
+            },
+            {
+                name: 'ราชดำริ',
+                status: TRAIN_STATUS.CLOSED
+            },
+            {
+                name: 'ศาลาแดง',
+                status: TRAIN_STATUS.CLOSED
+            },
+            {
+                name: 'ช่องนนทรี',
+                status: TRAIN_STATUS.CLOSED
+            },
+            {
+                name: 'สุรศักดิ์',
+                status: TRAIN_STATUS.CLOSED
+            },
+            {
+                name: 'สะพานตากสิน',
+                status: TRAIN_STATUS.CLOSED
+            },
+            {
+                name: 'กรุงธนบุรี',
+                status: TRAIN_STATUS.CLOSED
+            },
+            {
+                name: 'วงเวียนใหญ่',
+                status: TRAIN_STATUS.CLOSED
+            },
+            {
+                name: 'โพธิ์นิมิตร',
+                status: TRAIN_STATUS.CLOSED
+            },
+            {
+                name: 'ตลาดพลู',
+                status: TRAIN_STATUS.CLOSED
+            },
+            {
+                name: 'วุฒากาศ',
+                status: TRAIN_STATUS.CLOSED
+            },
+            {
+                name: 'บางหว้า',
+                status: TRAIN_STATUS.CLOSED
+            },
+        ]
+    },
 ]
