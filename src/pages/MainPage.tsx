@@ -4,6 +4,7 @@ import React from 'react';
 import CurrentMeetingPointsContainer from '../components/CurrentMeetingPointsContainer';
 import LiveContainer from '../components/LiveContainer';
 import OfficialNewsContainer from '../components/OfficialNewsContainer';
+import PhotoGalleryContainer from '../components/PhotoGalleryContainer';
 import TransportationContainer from '../components/TransportationContainer';
 
 export default () => {
@@ -14,6 +15,7 @@ export default () => {
             <TransportationContainer />
         </div> */}
         <LiveContainer />
+        <PhotoGalleryContainer />
         {/* <div>
             <OfficialNewsContainer />
         </div> */}
