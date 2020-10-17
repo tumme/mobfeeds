@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "26a6829b4d8c0648811b7ad77c40b5b0",
+    "revision": "717f62ccfc67e5d16b1dc3650d0e3b21",
     "url": "/mobfeeds/index.html"
   },
   {
-    "revision": "ef83bb8e8aa67a8c50a9",
+    "revision": "0060bfcfc83645d0ac17",
     "url": "/mobfeeds/static/css/main.cff725f2.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mobfeeds/static/js/2.ed50f3fd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ef83bb8e8aa67a8c50a9",
-    "url": "/mobfeeds/static/js/main.1dfa2874.chunk.js"
+    "revision": "0060bfcfc83645d0ac17",
+    "url": "/mobfeeds/static/js/main.b7fac6f8.chunk.js"
   },
   {
     "revision": "4f3bd508205206a491f0",
