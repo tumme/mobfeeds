@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,WACI,qBAAsB,CACtB,uDACJ,CAEA,KACI,QAAS,CACT,qBACJ","file":"main.cff725f2.chunk.css","sourcesContent":["@font-face {\n    font-family: BangnaNew;\n    src: url(./assets/bangna-new.ttf);\n}\n\nbody {\n    margin: 0;\n    font-family: BangnaNew;\n}\n"]}
