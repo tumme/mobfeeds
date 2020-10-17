@@ -53,4 +53,6 @@ https://reactrouter.com/web/guides/quick-start
 https://medium.com/@mossila/%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99-react-route-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-typescript-e7dc70885122
 https://medium.com/react-courses/how-to-integrate-routing-in-typescript-project-with-react-router-v5-2-0-a6b0ab160a1b
 
+# ถ้าส่วนไหนที่กำลัง develop อยู่
 
+แต่ยังไม่เสร็จทั้งหมดดี สามารถใช้ component `<UnderDevelopment />` ได้นะคะ
