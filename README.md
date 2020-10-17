@@ -9,6 +9,12 @@ npm start
 
 it will run at `localhost:3000`
 
+# เริ่ม contribute
+
+เข้าไปดูใน /src/pages/MainPage หน้าแรกมันจะเริ่มจากตรงนี้ (ตอนนี้มีหน้าเดียว) 
+
+มีคอมโพเน้นที่ยังไม่ได้ทำ ปั่นอยู่จ่ะ (จะเปิด issue มาบอกว่าทำอะไรอยู่ก็ได้นะ)
+
 # project structure
 
 ```
@@ -24,7 +30,7 @@ src
 
 asset เอาไว้ใส่รูป ใส่ฟ้อนท์
 
-pages เอาไว้ใส่หน้าใหม่ๆ (ตอนนี้มีหน้าเดียว)
+pages เอาไว้ใส่หน้าใหม่ๆ 
 
 components เอาไว้ใส่ component, container, wrapper to be reused
 
