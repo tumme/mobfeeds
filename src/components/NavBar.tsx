@@ -3,6 +3,8 @@ import { jsx, css } from '@emotion/core';
 import React from 'react';
 import logo from '../assets/logo.jpg';
 import githubLogoWhite from '../assets/github-logo-white.png';
+import { ITabItem } from './Tab';
+import Tab from './Tab';
 
 export default () => {
     return (
@@ -17,10 +19,12 @@ export default () => {
                     alignItems: 'center'
                 }}>
                 <div>
+                    <a href='/'>
                     <img src={logo} alt="หมุดคณะราษฎร์ 2563 ไงว้อย" css={{ width: '100px'}} />
+                    </a>
                 </div>
 
-                <div css={{ padding: '0 10px', fontSize: '1.5em', fontWeight: 'bold', textTransform: 'uppercase'}}>
+                <a href='/' css={{ color: '#FFF', padding: '0 10px', fontSize: '1.5em', fontWeight: 'bold', textTransform: 'uppercase'}}>
                     <div css={{ marginBottom: '10px'}}>
                         <span>เพื่ออนาคตที่ดีกว่า</span>
                     </div>
@@ -29,7 +33,7 @@ export default () => {
                         <span>For the better future</span>
                     </div>
                     
-                </div>
+                </a>
                 
             </div>
 
@@ -47,6 +51,20 @@ export default () => {
             </div>
         </div>
         
+        <div>
+            <Tab list={menu} />
+        </div>
     </div>
     );
 }
+
+const menu: ITabItem[] = [
+    {
+        label: 'Home',
+        link: '/'
+    },
+    {
+        label: 'BTS/MRT Status',
+        link: '/transport'
+    }
+]
