@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/mobfeeds/static/css/main.b14dda03.chunk.css",
-    "main.js": "/mobfeeds/static/js/main.ac95862e.chunk.js",
-    "main.js.map": "/mobfeeds/static/js/main.ac95862e.chunk.js.map",
+    "main.js": "/mobfeeds/static/js/main.019a34e6.chunk.js",
+    "main.js.map": "/mobfeeds/static/js/main.019a34e6.chunk.js.map",
     "runtime-main.js": "/mobfeeds/static/js/runtime-main.3ca6cae6.js",
     "runtime-main.js.map": "/mobfeeds/static/js/runtime-main.3ca6cae6.js.map",
     "static/js/2.c9712db1.chunk.js": "/mobfeeds/static/js/2.c9712db1.chunk.js",
     "static/js/2.c9712db1.chunk.js.map": "/mobfeeds/static/js/2.c9712db1.chunk.js.map",
     "index.html": "/mobfeeds/index.html",
-    "precache-manifest.949ceb6255d530c5aa6a5cfa2c5d8ebc.js": "/mobfeeds/precache-manifest.949ceb6255d530c5aa6a5cfa2c5d8ebc.js",
+    "precache-manifest.dd1afdc11db699646564779976ae4ac0.js": "/mobfeeds/precache-manifest.dd1afdc11db699646564779976ae4ac0.js",
     "service-worker.js": "/mobfeeds/service-worker.js",
     "static/css/main.b14dda03.chunk.css.map": "/mobfeeds/static/css/main.b14dda03.chunk.css.map",
     "static/js/2.c9712db1.chunk.js.LICENSE.txt": "/mobfeeds/static/js/2.c9712db1.chunk.js.LICENSE.txt",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.3ca6cae6.js",
     "static/js/2.c9712db1.chunk.js",
     "static/css/main.b14dda03.chunk.css",
-    "static/js/main.ac95862e.chunk.js"
+    "static/js/main.019a34e6.chunk.js"
   ]
 }
