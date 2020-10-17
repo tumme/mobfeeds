@@ -1,0 +1,9 @@
+@font-face {
+    font-family: BangnaNew;
+    src: url(./assets/bangna-new.ttf);
+}
+
+body {
+    margin: 0;
+    font-family: BangnaNew;
+}

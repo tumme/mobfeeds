@@ -2,11 +2,12 @@
   "name": "mobfeeds",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://aimetpgm.github.io/mobfeeds",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b dist -d build"
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "@emotion/core": "^10.0.35",
