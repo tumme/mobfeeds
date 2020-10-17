@@ -6,7 +6,7 @@ export default () => {
     return (
     <div css={{ padding: '2em'}}>
         <div>
-            Latest Update: การคมนาคม/ขนส่งสาธารณะ
+            การคมนาคม/ขนส่งสาธารณะ
         </div>
         <div>
             Live!
