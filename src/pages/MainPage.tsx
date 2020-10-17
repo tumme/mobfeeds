@@ -1,19 +1,19 @@
 /** @jsx jsx */
 import { jsx, css } from '@emotion/core';
 import React from 'react';
+import CurrentMeetingPointsContainer from '../components/CurrentMeetingPointsContainer';
 import LiveContainer from '../components/LiveContainer';
 import OfficialNewsContainer from '../components/OfficialNewsContainer';
 import TransportationContainer from '../components/TransportationContainer';
 
 export default () => {
     return (
-    <div css={{ padding: '2em'}}>
+    <div css={{ width: '100%', overflow: 'hidden' }}>
+        <CurrentMeetingPointsContainer />
         {/* <div>
             <TransportationContainer />
         </div> */}
-        <div css={{ width: '100%', overflow: 'hidden' }}>
-            <LiveContainer />
-        </div>
+        <LiveContainer />
         {/* <div>
             <OfficialNewsContainer />
         </div> */}
