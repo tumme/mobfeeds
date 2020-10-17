@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/mobfeeds/static/css/main.cff725f2.chunk.css",
-    "main.js": "/mobfeeds/static/js/main.c0e2aae0.chunk.js",
-    "main.js.map": "/mobfeeds/static/js/main.c0e2aae0.chunk.js.map",
+    "main.js": "/mobfeeds/static/js/main.1dfa2874.chunk.js",
+    "main.js.map": "/mobfeeds/static/js/main.1dfa2874.chunk.js.map",
     "runtime-main.js": "/mobfeeds/static/js/runtime-main.3ca6cae6.js",
     "runtime-main.js.map": "/mobfeeds/static/js/runtime-main.3ca6cae6.js.map",
     "static/js/2.ed50f3fd.chunk.js": "/mobfeeds/static/js/2.ed50f3fd.chunk.js",
     "static/js/2.ed50f3fd.chunk.js.map": "/mobfeeds/static/js/2.ed50f3fd.chunk.js.map",
     "index.html": "/mobfeeds/index.html",
-    "precache-manifest.7b83abc66f71bb8cacdb5665181782be.js": "/mobfeeds/precache-manifest.7b83abc66f71bb8cacdb5665181782be.js",
+    "precache-manifest.9cc1a85a82c6724c4c3291c32546654e.js": "/mobfeeds/precache-manifest.9cc1a85a82c6724c4c3291c32546654e.js",
     "service-worker.js": "/mobfeeds/service-worker.js",
     "static/css/main.cff725f2.chunk.css.map": "/mobfeeds/static/css/main.cff725f2.chunk.css.map",
     "static/js/2.ed50f3fd.chunk.js.LICENSE.txt": "/mobfeeds/static/js/2.ed50f3fd.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.3ca6cae6.js",
     "static/js/2.ed50f3fd.chunk.js",
     "static/css/main.cff725f2.chunk.css",
-    "static/js/main.c0e2aae0.chunk.js"
+    "static/js/main.1dfa2874.chunk.js"
   ]
 }
