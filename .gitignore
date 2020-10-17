@@ -2,6 +2,9 @@
 *-lock.json
 *.lock
 
+#build
+build/
+
 # Logs
 logs
 *.log
